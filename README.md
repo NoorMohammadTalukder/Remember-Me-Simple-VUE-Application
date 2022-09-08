@@ -1,15 +1,15 @@
 # Remember-Me-Simple-VUE-Application
 This is simple application using core concept of VUE
 
-<h3>Live Website: </h3>
-<h3>Video Simulation</h3>
+<h3>Live Website: https://endearing-kitsune-25cd83.netlify.app/ </h3>
+<h1>Video Simulation</h1>
 
 
 https://user-images.githubusercontent.com/63577979/189107774-b4f75ee0-fb7c-488a-ab4a-eb0b8e8cb514.mp4
 
 
 
-<h3>Scrren Shots of the App</h3>
+<h1>Scrren Shots of the App</h1>
 
 ![ss1](https://user-images.githubusercontent.com/63577979/189107645-7b661921-5363-48e6-8bef-1fb40f022e19.JPG)
 ![ss2](https://user-images.githubusercontent.com/63577979/189107652-399988d4-77dc-43ce-bb76-de2beaaab02e.JPG)
