@@ -1,11 +1,13 @@
 # Remember-Me-Simple-VUE-Application
 This is simple application using core concept of VUE
-<h1>Chat Room</h1>
 
-<h5 style style="color:red;">N.B: This is not real time chat app. This app can reply only some pre defined messages.</h5>
 <h3>Live Website: </h3>
 <h3>Video Simulation</h3>
-https://user-images.githubusercontent.com/63577979/189106902-78009833-6200-4ef7-8b62-e3fa053e4e05.mp4
+
+
+https://user-images.githubusercontent.com/63577979/189107774-b4f75ee0-fb7c-488a-ab4a-eb0b8e8cb514.mp4
+
+
 
 <h3>Scrren Shots of the App</h3>
 
