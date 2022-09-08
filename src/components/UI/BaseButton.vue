@@ -1,14 +1,14 @@
 <template>
-    <button :type="type" :class="mode">
+    <button  :class="mode">
         <slot>
-            
+
         </slot>
     </button>
 </template>
 
 <script>
 export default {
-    props:['type','mode']
+    props:['mode']
 }
 </script>
 
@@ -20,22 +20,24 @@ export default {
     border: 1px solid #3a0061;
     color: white;
     cursor: pointer;
+   ;
     }
 
     button:hover,
     button:active {
-    background-color: #270041;
+    background-color: #8d0081;
     border-color: #270041;
     }
 
     .flat {
     background-color: transparent;
     color: #3a0061;
-    border: none;
+    border: 1px solid black
     }
+  
 
     .flat:hover,
     .flat:active {
-    background-color: #edd2ff;
+    background-color: #ffd2e0;
     }
 </style>
