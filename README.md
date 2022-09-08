@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/63577979/189107774-b4f75ee0-fb7c-488a-
 
 
 
-<h1>Scrren Shots of the App</h1>
+<h1>Screen Shots of the App</h1>
 
 ![ss1](https://user-images.githubusercontent.com/63577979/189107645-7b661921-5363-48e6-8bef-1fb40f022e19.JPG)
 ![ss2](https://user-images.githubusercontent.com/63577979/189107652-399988d4-77dc-43ce-bb76-de2beaaab02e.JPG)
